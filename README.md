@@ -1,3 +1,8 @@
+
+# ⚠️ This fork has been merged into https://github.com/JasonWeinzierl/eslint-plugin-rxjs-angular-x/pull/3
+
+---
+
 # eslint-plugin-rxjs-angular
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cartant/eslint-plugin-rxjs-angular/blob/master/LICENSE)
